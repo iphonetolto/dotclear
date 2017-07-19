@@ -1,16 +1,12 @@
 # Dotclear language pack (Hungarian).
 # Benjamin Bank <benjaminbank@gmail.com>, 2008.
 #
-# UPDATE-zúzás:
-# Muráncsik Sebestyén <dr.graf@lajt.hu>, 2009.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: Dotclear 2.0-RC2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-10-13 05:22+0200\n"
 "PO-Revision-Date: 2008-06-29 18:40+0200\n"
-"Last-Translator: Muráncsik Sebestyén <dr.graf@lajt.hu>, 2009\n"
 "Language-Team: Hungarian\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -179,7 +175,7 @@ msgid "Comment"
 msgstr "Megjegyzés"
 
 msgid "Comments can be formatted using a simple wiki syntax."
-msgstr ""
+msgstr "A megjegyzés szimpla wiki-szintaxissal is formázható."
 
 msgid "HTML code is displayed as text and web addresses are automatically converted."
 msgstr "A HTML kódot szövegként fogja megjeleníteni és a webcímeket automatikusan átkonvertálja a rendszer!"
